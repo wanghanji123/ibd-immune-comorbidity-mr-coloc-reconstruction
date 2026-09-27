@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "ivw_pairs_checked": 60,
+  "primary_family": 12,
+  "leave_one_out_rows": 1008,
+  "statement": "Independent Python formula matches installed TwoSampleMR IVW beta, SE, p, Q and Q p for all 60 branches. This validates arithmetic, not MR assumptions."
+}

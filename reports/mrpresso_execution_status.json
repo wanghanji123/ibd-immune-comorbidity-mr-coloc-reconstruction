@@ -1,0 +1,242 @@
+[
+  {
+    "gwas_id": "GCST004131",
+    "exposure": "IBD",
+    "outcome": "H7_IRIDOCYCLITIS",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 354.57250022888184,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004131__H7_IRIDOCYCLITIS__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004131",
+    "exposure": "IBD",
+    "outcome": "H7_IRIDOCYCLITIS",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 349.30694580078125,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004131__H7_IRIDOCYCLITIS__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004131",
+    "exposure": "IBD",
+    "outcome": "L12_PSORIASIS",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 347.4788691997528,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004131__L12_PSORIASIS__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004131",
+    "exposure": "IBD",
+    "outcome": "L12_PSORIASIS",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 362.4455358982086,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004131__L12_PSORIASIS__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004131",
+    "exposure": "IBD",
+    "outcome": "M13_ANKYLOSPON",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 346.3720512390137,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004131__M13_ANKYLOSPON__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004131",
+    "exposure": "IBD",
+    "outcome": "M13_ANKYLOSPON",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 344.23189401626587,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004131__M13_ANKYLOSPON__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004131",
+    "exposure": "IBD",
+    "outcome": "M13_PSORIARTH",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 350.34417700767517,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004131__M13_PSORIARTH__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004131",
+    "exposure": "IBD",
+    "outcome": "M13_PSORIARTH",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 351.25034070014954,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004131__M13_PSORIARTH__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004132",
+    "exposure": "CD",
+    "outcome": "H7_IRIDOCYCLITIS",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 442.3147406578064,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004132__H7_IRIDOCYCLITIS__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004132",
+    "exposure": "CD",
+    "outcome": "H7_IRIDOCYCLITIS",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 440.11827540397644,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004132__H7_IRIDOCYCLITIS__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004132",
+    "exposure": "CD",
+    "outcome": "L12_PSORIASIS",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 394.79893159866333,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004132__L12_PSORIASIS__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004132",
+    "exposure": "CD",
+    "outcome": "L12_PSORIASIS",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 395.52782440185547,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004132__L12_PSORIASIS__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004132",
+    "exposure": "CD",
+    "outcome": "M13_ANKYLOSPON",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 439.90000677108765,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004132__M13_ANKYLOSPON__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004132",
+    "exposure": "CD",
+    "outcome": "M13_ANKYLOSPON",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 443.18302726745605,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004132__M13_ANKYLOSPON__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004132",
+    "exposure": "CD",
+    "outcome": "M13_PSORIARTH",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 399.58345794677734,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004132__M13_PSORIARTH__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004132",
+    "exposure": "CD",
+    "outcome": "M13_PSORIARTH",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 396.8234176635742,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004132__M13_PSORIARTH__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004133",
+    "exposure": "UC",
+    "outcome": "H7_IRIDOCYCLITIS",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 353.9940230846405,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004133__H7_IRIDOCYCLITIS__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004133",
+    "exposure": "UC",
+    "outcome": "H7_IRIDOCYCLITIS",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 354.00992369651794,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004133__H7_IRIDOCYCLITIS__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004133",
+    "exposure": "UC",
+    "outcome": "L12_PSORIASIS",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 344.1099145412445,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004133__L12_PSORIASIS__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004133",
+    "exposure": "UC",
+    "outcome": "L12_PSORIASIS",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 339.89497590065,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004133__L12_PSORIASIS__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004133",
+    "exposure": "UC",
+    "outcome": "M13_ANKYLOSPON",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 352.3060519695282,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004133__M13_ANKYLOSPON__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004133",
+    "exposure": "UC",
+    "outcome": "M13_ANKYLOSPON",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 348.2747187614441,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004133__M13_ANKYLOSPON__seed314159__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004133",
+    "exposure": "UC",
+    "outcome": "M13_PSORIARTH",
+    "seed": 271828,
+    "n_sim": 3000,
+    "elapsed_seconds": 342.2262933254242,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004133__M13_PSORIARTH__seed271828__n3000.log",
+    "status": "PASS"
+  },
+  {
+    "gwas_id": "GCST004133",
+    "exposure": "UC",
+    "outcome": "M13_PSORIARTH",
+    "seed": 314159,
+    "n_sim": 3000,
+    "elapsed_seconds": 341.46239733695984,
+    "log": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\logs\\mrpresso__GCST004133__M13_PSORIARTH__seed314159__n3000.log",
+    "status": "PASS"
+  }
+]

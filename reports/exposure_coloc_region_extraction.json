@@ -1,0 +1,62 @@
+{
+  "created_utc": "2026-09-27T16:08:06.001786+00:00",
+  "output": "<LOCAL_DATA_ROOT>\\round03_coloc\\exposure_regions_GRCh37.csv.gz",
+  "output_sha256": "13e85325994296cb3443cc7a7dadca789758f6efdcf55c7af9a7e7a72809b690",
+  "selection": "All finite biallelic SNVs in every prespecified exposure-assigned GRCh37 region; no outcome data read",
+  "exposures": [
+    {
+      "gwas_id": "GCST004131",
+      "trait": "IBD",
+      "source": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\raw\\ibd_build37_59957_20161107.txt.gz",
+      "source_sha256": "6c5e8b534dbe6048cdf84b07ef2a772ea5d0071a21b8fb1552fb89c6f02ebdd8",
+      "assigned_regions": 102,
+      "counts": {
+        "total_rows": 9735446,
+        "malformed_marker": 370696,
+        "outside_assigned_regions": 8971955,
+        "invalid_effect": 0,
+        "duplicate_exact_record": 0,
+        "retained": 392795
+      },
+      "region_min": 1007,
+      "region_max": 22325,
+      "zero_variant_regions": []
+    },
+    {
+      "gwas_id": "GCST004132",
+      "trait": "CD",
+      "source": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\raw\\cd_build37_40266_20161107.txt.gz",
+      "source_sha256": "ddc4258b51f6da59749cbb798d4e387b5d1fab1746f3101d31c7bfa72301c872",
+      "assigned_regions": 81,
+      "counts": {
+        "total_rows": 9570787,
+        "malformed_marker": 369438,
+        "outside_assigned_regions": 8891762,
+        "invalid_effect": 0,
+        "duplicate_exact_record": 0,
+        "retained": 309587
+      },
+      "region_min": 1561,
+      "region_max": 22258,
+      "zero_variant_regions": []
+    },
+    {
+      "gwas_id": "GCST004133",
+      "trait": "UC",
+      "source": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\raw\\uc_build37_45975_20161107.txt.gz",
+      "source_sha256": "756f270ab5cf2fdeaafbf5d3c0bc2cf2e342acb5b6db86b0e7215a95dc8c3d7c",
+      "assigned_regions": 54,
+      "counts": {
+        "total_rows": 9588016,
+        "malformed_marker": 369381,
+        "outside_assigned_regions": 8994991,
+        "invalid_effect": 0,
+        "duplicate_exact_record": 0,
+        "retained": 223644
+      },
+      "region_min": 1739,
+      "region_max": 22154,
+      "zero_variant_regions": []
+    }
+  ]
+}

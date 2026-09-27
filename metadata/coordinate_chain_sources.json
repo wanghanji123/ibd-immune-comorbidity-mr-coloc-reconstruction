@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/hg19ToHg38.over.chain.gz",
+    "compressed_bytes": 227698,
+    "sha256": "5c0598e500ceb5a78c73086929e8ef993aec309bcafb595139b53d440b125a1d",
+    "uncompressed_sha256": "a073d8914233b5542d29761ab8ec4b3815052b13964919c12a1efb2e311fbf39"
+  },
+  {
+    "url": "https://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/hg38ToHg19.over.chain.gz",
+    "compressed_bytes": 1246411,
+    "sha256": "14a712e8e147d9fc8e9d87d51977b46f6f8ddb93efbe5d0843d86b6205f587b1",
+    "uncompressed_sha256": "e3a42338508eee1fa55ab8d0f70054079a3e84ed8c41984ffbf87b5b584d0838"
+  }
+]

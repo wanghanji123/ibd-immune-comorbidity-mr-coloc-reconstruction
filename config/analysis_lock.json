@@ -1,0 +1,83 @@
+{
+  "version": "round03-v1",
+  "date": "2026-09-27",
+  "design": "Post-hoc methodological rebuild; not preregistered or independent replication",
+  "legacy_results_previously_seen": true,
+  "new_outcome_effects_examined_before_this_lock": false,
+  "scope": "Population genetic liability, not risk of complications within IBD patients",
+  "exposures": {
+    "IBD": "GCST004131",
+    "CD": "GCST004132",
+    "UC": "GCST004133"
+  },
+  "outcomes": [
+    "M13_ANKYLOSPON",
+    "H7_IRIDOCYCLITIS",
+    "L12_PSORIASIS",
+    "M13_PSORIARTH"
+  ],
+  "outcome_release": "FinnGen R12, retained for a single uniform release; not claimed latest",
+  "download_registration": "NOT_COMPLETED_USER_CONFIRMED_2026-09-27",
+  "new_finngen_downloads_allowed": false,
+  "primary_p_threshold": 5e-08,
+  "effect_allele": "Allele2; beta unchanged from original GRCh37 source",
+  "base_qc": [
+    "finite beta and positive finite SE",
+    "valid p",
+    "unique chr/pos/allele identity",
+    "biallelic ACGT SNV",
+    "nonpalindromic because original EAF missing",
+    "complete three-cohort Direction pattern",
+    "valid cohort I2 <=90 percent",
+    "valid and consistent cohort p fields",
+    "unique exact allele-position LD reference match",
+    "unique rsid in LD reference"
+  ],
+  "primary_cohort_p_rule": "meta-analysis P strictly below minimum component-cohort P, with non-overlapping displayed-precision intervals",
+  "sensitivity_cohort_p_rule": "Retain rows failing only the meta-versus-component P rule or its rounding ambiguity; all other QC unchanged",
+  "source_qc_limitation": "Original files predate some publication filtering; absent INFO/MAF prevents complete reproduction of the publication QC. Do not claim complete post-publication-QC identity.",
+  "ld_reference": "Previously audited public legacy 1000 Genomes EUR MAF>0.01, 502 individuals; not FinnGen in-sample LD",
+  "clump_r2": 0.001,
+  "clump_kb": 10000,
+  "clump_p2": 1,
+  "clump_threads": 1,
+  "clump_memory_mb": 2048,
+  "mhc_exclusion": {
+    "build": "GRCh37",
+    "chromosome": 6,
+    "start_inclusive": 25000000,
+    "end_inclusive": 34000000,
+    "stage": "before a separate clumping run"
+  },
+  "proxies": false,
+  "harmonisation": "Unique reciprocal GRCh37-to-GRCh38 SNV lift; complement on reversed mapping; exact outcome allele pair; no ambiguous duplicate or coordinate-only match",
+  "primary_mr": "Multiplicative random-effects IVW for >=2 valid SNPs; normal CI with residual inflation capped below at 1; Wald ratio only for one SNP, explicitly weaker evidence",
+  "robustness": [
+    "weighted median",
+    "MR-Egger where estimable",
+    "Cochran Q",
+    "leave-one-out",
+    "MHC exclusion",
+    "cohort-P-rule sensitivity"
+  ],
+  "mr_presso": "Secondary; fixed seeds 271828 and 314159, 100000 simulations if feasible; retain bounded p values and all runs; failure is not absence of pleiotropy",
+  "fdr": "BH across the 12 primary IVW/Wald hypotheses; unestimable tests count as p=1 in family, but are reported unestimable, not null effects",
+  "steiger": "Not runnable from original sources without reliable exposure frequency and binary-liability inputs/prevalence; no default continuous-trait approximation and no reference MAF presented as measured exposure frequency",
+  "coloc_selection": "Merge overlapping GRCh37 +/-500kb windows around all primary exposure clumped index SNPs, across all 3 exposures; evaluate all exposure/outcome pairs in each merged region where full dense data pass QC, not only significant outcome regions",
+  "coloc_data": "All eligible regional variants irrespective of P, allele/build matched, beta and SE squared, case-control type; no invented sample frequencies; full mapping and coverage diagnostics required",
+  "coloc_priors": {
+    "p1": 0.0001,
+    "p2": 0.0001,
+    "p12": [
+      1e-06,
+      1e-05,
+      1e-07,
+      0.0001
+    ]
+  },
+  "coloc_reporting": "Report H0-H4 jointly, regional signal strength and SNP coverage; default H4>=0.8 is descriptive strong support, not confirmation; prior robustness requires H4>=0.8 at p12=1e-6, not highest rank alone; H4 low does not prove distinct causality if either trait is weak",
+  "coloc_single_signal_limit": "ABF assumes at most one causal variant per trait per region; multi-signal is deferred without suitable LD, not claimed completed",
+  "sample_overlap": "Exact overlap unresolved; never claim absent or quantitatively corrected",
+  "subtype_comparison": "No differential-effect claim from significant versus nonsignificant; covariance-aware contrast required for formal subtype difference",
+  "release_status": "INSTRUMENT_REBUILD_ALLOWED; OUTCOME_ANALYSIS_AND_SUBMISSION_NOT_RELEASED"
+}

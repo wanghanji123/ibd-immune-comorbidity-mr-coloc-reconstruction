@@ -1,0 +1,115 @@
+{
+  "checks": [
+    {
+      "gwas_id": "GCST004131",
+      "branch": "primary_all",
+      "eligible_reconciled": 10429,
+      "leads": 114,
+      "within_10Mb_pairs_checked": 54,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000989081
+    },
+    {
+      "gwas_id": "GCST004131",
+      "branch": "primary_nonMHC",
+      "eligible_reconciled": 8700,
+      "leads": 111,
+      "within_10Mb_pairs_checked": 48,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000989081
+    },
+    {
+      "gwas_id": "GCST004131",
+      "branch": "relaxed_cohort_p_all",
+      "eligible_reconciled": 10598,
+      "leads": 117,
+      "within_10Mb_pairs_checked": 54,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000989081
+    },
+    {
+      "gwas_id": "GCST004131",
+      "branch": "relaxed_cohort_p_nonMHC",
+      "eligible_reconciled": 8818,
+      "leads": 114,
+      "within_10Mb_pairs_checked": 48,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000989081
+    },
+    {
+      "gwas_id": "GCST004132",
+      "branch": "primary_all",
+      "eligible_reconciled": 8994,
+      "leads": 88,
+      "within_10Mb_pairs_checked": 31,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000964538
+    },
+    {
+      "gwas_id": "GCST004132",
+      "branch": "primary_nonMHC",
+      "eligible_reconciled": 7968,
+      "leads": 84,
+      "within_10Mb_pairs_checked": 24,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000964538
+    },
+    {
+      "gwas_id": "GCST004132",
+      "branch": "relaxed_cohort_p_all",
+      "eligible_reconciled": 9023,
+      "leads": 88,
+      "within_10Mb_pairs_checked": 31,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000964538
+    },
+    {
+      "gwas_id": "GCST004132",
+      "branch": "relaxed_cohort_p_nonMHC",
+      "eligible_reconciled": 7987,
+      "leads": 84,
+      "within_10Mb_pairs_checked": 24,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000964538
+    },
+    {
+      "gwas_id": "GCST004133",
+      "branch": "primary_all",
+      "eligible_reconciled": 5980,
+      "leads": 61,
+      "within_10Mb_pairs_checked": 23,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000996711
+    },
+    {
+      "gwas_id": "GCST004133",
+      "branch": "primary_nonMHC",
+      "eligible_reconciled": 3218,
+      "leads": 56,
+      "within_10Mb_pairs_checked": 13,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000996711
+    },
+    {
+      "gwas_id": "GCST004133",
+      "branch": "relaxed_cohort_p_all",
+      "eligible_reconciled": 6020,
+      "leads": 61,
+      "within_10Mb_pairs_checked": 23,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000996711
+    },
+    {
+      "gwas_id": "GCST004133",
+      "branch": "relaxed_cohort_p_nonMHC",
+      "eligible_reconciled": 3230,
+      "leads": 56,
+      "within_10Mb_pairs_checked": 13,
+      "residual_LD_violations": 0,
+      "max_R2": 0.000996711
+    }
+  ],
+  "n_unique_instrument_variants": 218,
+  "status": "PASS",
+  "note": "Pairwise LD verified within the prespecified 10Mb window; this is not proof of zero long-range LD."
+}

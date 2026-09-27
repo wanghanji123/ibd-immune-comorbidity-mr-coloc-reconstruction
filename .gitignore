@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+*.gz
+*.bgz
+*.tbi
+*.bgen
+*.bed
+*.bim
+*.fam
+*.rds

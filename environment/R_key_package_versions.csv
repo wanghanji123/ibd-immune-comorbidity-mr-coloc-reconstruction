@@ -1,0 +1,7 @@
+package,version
+TwoSampleMR,0.7.8
+MRPRESSO,1.0
+coloc,5.2.3
+VariantAnnotation,1.58.0
+rtracklayer,1.72.0
+data.table,1.18.2.1

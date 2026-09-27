@@ -1,0 +1,13 @@
+{
+  "event": "FINNGEN_GWAS_SUMMARY_STATISTICS_REGISTRATION_COMPLETED",
+  "date_local": "2026-09-27",
+  "evidence": "University of Helsinki completion page displayed: information saved and detailed download instructions sent by email",
+  "completion_page": "https://elomake.helsinki.fi/lopetus.php",
+  "download_email_received": true,
+  "download_instructions_verified": true,
+  "email_evidence_date_local": "2026-09-27",
+  "email_summary": "FinnGen email states released summary statistics are downloadable from Google Cloud Storage, gives browser/command-line/GCS methods, and identifies older freezes under gs://finngen-public-data-r{2-12}/summary_stats/.",
+  "frozen_release_interpretation": "The email explicitly includes R12 among older freezes; the analysis remains frozen to R12 and is not silently changed to R13.",
+  "credentials_stored": false,
+  "interpretation": "Registration and receipt of download instructions are confirmed. Public download paths may now be verified. This does not authorize disclosure of credentials or re-identification attempts."
+}

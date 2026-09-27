@@ -1,0 +1,4 @@
+trait,gwas_id,input_variants,reciprocal_unique_pass,nonunique_forward,reciprocal_failure,duplicate_mapped_key,reverse_strand
+IBD,GCST004131,392795,392665,123,7,0,0
+CD,GCST004132,309587,309504,83,0,0,0
+UC,GCST004133,223644,223584,60,0,0,0

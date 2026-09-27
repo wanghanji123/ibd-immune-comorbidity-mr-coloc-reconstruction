@@ -1,0 +1,25 @@
+R version 4.6.0 (2026-04-24 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] C
+system code page: 65001
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+ [1] codetools_0.2-20     Rsamtools_2.28.0     R.utils_2.13.0      
+ [4] parallel_4.6.0       XVector_0.52.0       BiocGenerics_0.58.0 
+ [7] Biostrings_2.80.0    generics_0.1.4       stats4_4.6.0        
+[10] bitops_1.0-9         Seqinfo_1.2.0        GenomicRanges_1.64.0
+[13] IRanges_2.46.0       R.methodsS3_1.8.2    data.table_1.18.2.1 
+[16] compiler_4.6.0       R.oo_1.27.1          tools_4.6.0         
+[19] S4Vectors_0.50.0     crayon_1.5.3         BiocParallel_1.46.0 

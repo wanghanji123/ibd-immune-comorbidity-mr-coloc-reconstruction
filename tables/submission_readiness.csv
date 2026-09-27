@@ -1,0 +1,18 @@
+item,status,basis,requirement
+SOURCE_FILES,PASS_WITH_RECORDED_LIMITATIONS,Original exposure bytes and round02 audit intact; missing INFO/EAF/per-SNP N not fabricated,required
+EXPOSURE_INSTRUMENTS,PASS,12 exposure QC/MHC branches clumped and every eligible candidate reconciled,required
+REFERENCE_LD,PASS_WITH_LIMITATIONS,502 EUR individuals; within-10Mb lead pair LD verified; not FinnGen in-sample LD,required
+COORDINATE_MAP,PARTIAL_PASS,218 unique SNVs reciprocal-coordinate pass; reference/outcome alleles not yet checked,required
+FINNGEN_REGISTRATION,NEEDS_RESEARCHER_ACTION,User confirms not completed; no new FinnGen download,required
+OUTCOME_SOURCE_QC,NOT_COMPLETE,"Fresh four-outcome provenance, integrity, fields and coverage not complete",required
+PRIMARY_12_MR,NOT_RUN,Do not reuse legacy effects as newly rebuilt effects,required
+MHC_EFFECT_SENSITIVITY,INPUT_READY_NOT_RUN,"MHC exclusion performed before independent clumping, no outcome effect comparison yet",required
+MR_PRESSO,NOT_RUN_IN_REBUILD,Two fixed seeds/high precision specified; old results not transplanted,planned
+BINARY_STEIGER,NOT_ESTIMABLE_FROM_CURRENT_INPUTS,"Exposure frequency and defensible binary-liability settings missing; may omit with limitation, never fabricate pass",claim_dependent
+COLOCALISATION,REGION_PLAN_ONLY,130 regions planned independent of new outcome results; no new H4 or multi-signal claims,required_for_coloc_claims
+OVERLAP,UNQUANTIFIED,Do not assert zero overlap or completed quantitative bias correction,required_disclosure
+INDEPENDENT_REPLICATION,NOT_ESTABLISHED,Same-cohort releases/subtypes/strict-AS cannot substitute for independent replication,claim_dependent
+NOVELTY,NOT_ESTABLISHED,Direct prior MR studies overlap; systematic regional evidence must add genuine information,required
+CITATION_CLAIM_MAPPING,NOT_FINAL_AUDITED,58-reference historical text untouched; final new claims need sentence-level audit,required
+AUTHOR_ETHICS_LICENSE_AI,NEEDS_AUTHOR_FINAL_REVIEW,"No invented approval, exemption, license or author declaration",required
+MANUSCRIPT_AND_PUBLIC_RELEASE,NOT_READY,No new final manuscript or public release produced before actual estimates and audit,required

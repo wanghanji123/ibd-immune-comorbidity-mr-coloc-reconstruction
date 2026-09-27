@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "n_bibliography_records": 55,
+  "n_cited_records": 52,
+  "n_unique_cited_keys_in_manuscript": 52,
+  "n_unique_doi": 55,
+  "missing_citekeys": [],
+  "duplicate_dois": [],
+  "status_counts_all": {
+    "DOI_METADATA_MATCH": 55
+  },
+  "status_counts_cited": {
+    "DOI_METADATA_MATCH": 52
+  },
+  "metadata_boundary": "Crossref agreement validates bibliographic identity, not whether each cited paper supports every surrounding sentence. Claim-level support remains a manuscript review task.",
+  "manual_correction_log": "tables/reference_metadata_corrections.csv"
+}

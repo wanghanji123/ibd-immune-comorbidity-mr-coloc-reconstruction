@@ -1,0 +1,2 @@
+pandoc 3.10
+Features: +server +lua

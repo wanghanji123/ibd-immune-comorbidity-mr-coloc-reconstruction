@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "refined_jobs": 16,
+  "refined_pairs": 8,
+  "final_pairs": 12,
+  "all_global_classification_consistent": true,
+  "final_seed_stable_outlier_pairs": 6,
+  "final_seed_sensitive_outlier_pairs": 6,
+  "seed_sensitive_pairs": [
+    {
+      "exposure": "IBD",
+      "outcome": "H7_IRIDOCYCLITIS"
+    },
+    {
+      "exposure": "IBD",
+      "outcome": "L12_PSORIASIS"
+    },
+    {
+      "exposure": "IBD",
+      "outcome": "M13_ANKYLOSPON"
+    },
+    {
+      "exposure": "IBD",
+      "outcome": "M13_PSORIARTH"
+    },
+    {
+      "exposure": "CD",
+      "outcome": "L12_PSORIASIS"
+    },
+    {
+      "exposure": "CD",
+      "outcome": "M13_PSORIARTH"
+    }
+  ],
+  "interpretation": "The global test is primary for horizontal pleiotropy. If exact outlier sets remain seed-sensitive, no single corrected estimate is privileged; the intersection, union, and corrected range are reported."
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "n_locked_primary_pairs": 12,
+  "n_primary_fdr_positive": 8,
+  "n_global_pleiotropy_positive": 12,
+  "n_heterogeneity_positive": 12,
+  "n_pairs_with_prior_robust_shared_locus": 8,
+  "n_pairs_permitting_causal_claim": 0,
+  "grade_counts": {
+    "CONVERGENT_DIRECTIONAL_AND_SHARED_LOCUS_EVIDENCE_WITH_PLEIOTROPY_LIMITATION": 5,
+    "SHARED_LOCUS_EVIDENCE_WITHOUT_STABLE_DIRECTIONAL_MR": 3,
+    "DIRECTIONAL_ASSOCIATION_WITHOUT_ROBUST_SHARED_LOCUS_SUPPORT": 2,
+    "METHOD_SENSITIVE_DIRECTIONAL_SIGNAL_ONLY": 1,
+    "NO_CONVERGENT_PRIMARY_EVIDENCE": 1
+  },
+  "interpretive_boundary": "The evidence gate is conservative by design. Colocalisation is treated as locus-level shared-variant support and never as proof that the genome-wide MR exclusion restriction holds."
+}

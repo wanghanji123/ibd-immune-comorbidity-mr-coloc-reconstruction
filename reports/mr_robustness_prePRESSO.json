@@ -1,0 +1,14 @@
+{
+  "primary_FDR_positive": 8,
+  "heterogeneity_present": 12,
+  "weighted_median_supports": 9,
+  "nonMHC_supports": 10,
+  "directional_pleiotropy_signals": 3,
+  "note_counts": {
+    "POSITIVE_ACROSS_IVW_WEIGHTED_MEDIAN_NONMHC_WITH_HETEROGENEITY": 7,
+    "PRIMARY_NULL_BUT_NONMHC_POSITIVE_MHC_SENSITIVE": 2,
+    "PRIMARY_NULL_OR_INCONCLUSIVE": 2,
+    "PRIMARY_POSITIVE_METHOD_SENSITIVE": 1
+  },
+  "caution": "These are genetic-liability association diagnostics. Labels do not establish causality, clinical comorbidity risk, mechanism, or absence of pleiotropy."
+}

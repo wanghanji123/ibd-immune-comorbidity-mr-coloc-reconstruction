@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "n_sources": 8,
+  "verified_finngen_files": 5,
+  "zero_overlap_claim_permitted": false,
+  "independent_replication_claim_permitted_for_strict_AS": false,
+  "formal_subtype_difference_from_significance_pattern_permitted": false,
+  "required_language": [
+    "Exact exposure-outcome participant overlap could not be quantified.",
+    "FinnGen outcomes share a source cohort and controls and are not independent.",
+    "The strict AS endpoint is a same-cohort phenotype sensitivity analysis."
+  ]
+}

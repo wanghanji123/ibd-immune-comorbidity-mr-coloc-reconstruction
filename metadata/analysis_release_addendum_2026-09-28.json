@@ -1,0 +1,31 @@
+{
+  "document_type": "RETROSPECTIVE_ADMINISTRATIVE_RELEASE_ADDENDUM",
+  "created_local": "2026-09-28T01:46:30.5852429+08:00",
+  "transparency_statement": "This addendum was created after analysis execution to connect contemporaneously retained registration evidence to the immutable pre-execution analysis lock. It must not be represented as preregistration, prospective amendment, or blinded release approval.",
+  "immutable_analysis_lock": {
+    "path": "config/analysis_lock.json",
+    "last_write_local": "2026-09-27T17:07:50.9187816+08:00",
+    "sha256": "ea33b7505ac4e9e58a8b58651b02ac20d10599e943781f549054b2ef7c988945",
+    "original_status": "FinnGen registration not completed; new outcome downloads and outcome analysis not released"
+  },
+  "registration_evidence": [
+    {
+      "path": "<RETAINED_LOCALLY_NOT_PUBLIC>",
+      "last_write_local": "2026-09-27T23:17:39.5143888+08:00",
+      "sha256": "8451b097c55de04b2b078a6f391f316580adf46665ad5195940c115d340eaf2d"
+    },
+    {
+      "path": "<RETAINED_LOCALLY_NOT_PUBLIC>",
+      "last_write_local": "2026-09-27T23:18:40.6381168+08:00",
+      "sha256": "1133118aaf2aa8e10b934f4df6b65d00e6988295d4b81225b65d3955c2be0267"
+    },
+    {
+      "path": "metadata/finngen_registration_event_2026-09-27.json",
+      "last_write_local": "2026-09-27T23:21:10.0990544+08:00",
+      "sha256": "4f7e1b93e3bf6219fc5fd124ce7aa9b5dd49d8ae08b8e936ff0466cde647707d"
+    }
+  ],
+  "administrative_effect": "Registration completion removed the data-access barrier for the already specified frozen FinnGen R12 endpoints.",
+  "analytical_effect": "None. Exposure IDs, endpoint IDs, release R12, primary family, QC, clumping, harmonisation, MR, sensitivity, colocalisation, priors, and interpretive guardrails remained exactly as written in the immutable lock.",
+  "release_interpretation": "Outcome download and execution became administratively permissible after the retained registration evidence. This addendum documents provenance; it does not erase the post-hoc design or upgrade the study to preregistered confirmation."
+}

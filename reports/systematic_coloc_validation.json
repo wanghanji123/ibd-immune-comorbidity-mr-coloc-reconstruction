@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "checks": {
+    "coverage_rows_1185": true,
+    "all_regions_runnable": true,
+    "all_shared_at_least_50": true,
+    "coverage_keys_unique": true,
+    "posterior_rows_4740": true,
+    "posterior_keys_unique": true,
+    "four_priors_per_pair": true,
+    "prior_set_exact": true,
+    "no_coloc_errors": true,
+    "posterior_finite_and_bounded": true,
+    "posterior_sum_tolerance": true,
+    "H4_monotonic_with_p12": true,
+    "interpretation_one_default_row_per_pair": true
+  },
+  "coverage": {
+    "rows": 1185,
+    "min_shared": 940,
+    "median_shared": 3368.0,
+    "max_shared": 20964,
+    "min_exposure_match_fraction": 0.77039897039897,
+    "median_exposure_match_fraction": 0.962071480671043,
+    "ordered_swapped_matches_total": 4175
+  },
+  "posterior": {
+    "rows": 4740,
+    "max_sum_error": 3.241851231905457e-14,
+    "runs_with_warnings": 4252,
+    "warning_interpretation": "coloc check_dataset minimum-P warnings are retained; they identify weak regional signal and are not computational failures.",
+    "monotonic_failures": []
+  },
+  "scientific_limit": "ABF is a single-causal-variant regional model. Shared-variant support is not proof of MR direction, mediation, mechanism, or independence from sample overlap."
+}

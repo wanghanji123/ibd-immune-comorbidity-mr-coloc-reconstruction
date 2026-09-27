@@ -1,0 +1,41 @@
+{
+  "jobs": 24,
+  "pairs": 12,
+  "all_global_classification_consistent": true,
+  "all_outlier_sets_identical": false,
+  "pairs_needing_higher_precision": [
+    {
+      "exposure": "CD",
+      "outcome": "L12_PSORIASIS"
+    },
+    {
+      "exposure": "CD",
+      "outcome": "M13_ANKYLOSPON"
+    },
+    {
+      "exposure": "CD",
+      "outcome": "M13_PSORIARTH"
+    },
+    {
+      "exposure": "IBD",
+      "outcome": "H7_IRIDOCYCLITIS"
+    },
+    {
+      "exposure": "IBD",
+      "outcome": "L12_PSORIASIS"
+    },
+    {
+      "exposure": "IBD",
+      "outcome": "M13_ANKYLOSPON"
+    },
+    {
+      "exposure": "IBD",
+      "outcome": "M13_PSORIARTH"
+    },
+    {
+      "exposure": "UC",
+      "outcome": "M13_PSORIARTH"
+    }
+  ],
+  "caution": "MR-PRESSO simulation p values retain inequality bounds and finite resolution; non-significance is not proof of no horizontal pleiotropy."
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "fixture": "underdispersed",
+    "status": "PASS"
+  },
+  {
+    "fixture": "heterogeneous",
+    "status": "PASS"
+  },
+  {
+    "fixture": "two_snps",
+    "status": "PASS"
+  },
+  {
+    "fixture": "signed",
+    "status": "PASS"
+  }
+]

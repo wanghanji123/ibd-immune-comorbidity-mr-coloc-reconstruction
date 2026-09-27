@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "path": "<LOCAL_STORAGE_ROOT>\\02_OpenGWAS_GWASCatalog_AS遗传MR范式\\01_IBD_Crohn_UC_gut_joint_eye_skin\\重建研究_v1_2026-09-14\\round03_2026-09-27\\manuscript_rebuild_2026-09-28\\supplement\\Supplementary_Data_round03_reconstruction.xlsx",
+  "sheet_rows": {
+    "S1_sources": 8,
+    "S2_instruments": 12,
+    "S3_harmonisation": 60,
+    "S4_primary_MR": 12,
+    "S5_MR_robustness": 12,
+    "S6_PRESSO_runs": 16,
+    "S7_PRESSO_pairs": 12,
+    "S8_coloc_loci": 30,
+    "S9_evidence_gate": 12
+  }
+}
