@@ -39,7 +39,9 @@ def main():
     )
     records = json.loads(csl_json.read_text(encoding="utf-8"))
     manuscript = (M / "manuscript_source.md").read_text(encoding="utf-8")
-    cited = set(re.findall(r"@([A-Za-z0-9_:.\-]+)", manuscript))
+    # Pandoc citekeys are preceded by whitespace or citation punctuation; email
+    # domains are preceded by an address character and must not be counted.
+    cited = set(re.findall(r"(?<![A-Za-z0-9._%+\-])@([A-Za-z0-9_:.\-]+)", manuscript))
 
     rows = []
     for item in records:
